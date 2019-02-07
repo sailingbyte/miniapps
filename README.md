@@ -23,7 +23,7 @@ install via composer
 composer require sailingbyte/miniappslib
 ```
 
-Get API key at http://miniapps.sailingbyte.com/ - use on library initialisation
+Get API key at https://miniapps.sailingbyte.com/ - use on library initialisation
 
 ```
 $obj = MiniAppsLib(YOUR_API_KEY);
